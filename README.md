@@ -9,9 +9,12 @@ A responsive landing page featuring a welcome screen that links to the main home
 - Fully styled with CSS
 
 ## How to View
-1. Open `index.html` in your browser
+1. Open link in your browser
 2. Navigate using the links in the navbar
 
 ## Technologies
 - HTML
 - CSS
+
+## Link
+https://jcz-1.github.io/landing-page/ 
