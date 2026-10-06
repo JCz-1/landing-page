@@ -10,7 +10,7 @@ A responsive landing page featuring a welcome screen that links to the main home
 
 ## How to View
 1. Open link in your browser
-2. Navigate using the links in the navbar
+2. Navigate using the links in the navbar(login/Sign Up the only functional link for now) 
 
 ## Technologies
 - HTML
